@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11_6_Practical_work_exercise_04",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11_6_Practical_work_exercise_04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_6_Practical_work_exercise_04-Debug-a68f8a6f5609ad4f6bf6.json",
+					"name" : "11_6_Practical_work_exercise_04",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bogdanov-d/Documents/CLion/l/11.6_Practical_work_exercise_04/cmake-build-debug",
+		"source" : "C:/Users/bogdanov-d/Documents/CLion/l/11.6_Practical_work_exercise_04"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
