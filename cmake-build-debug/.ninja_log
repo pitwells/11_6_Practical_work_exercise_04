@@ -1,3 +1,23 @@
 # ninja log v5
 1	253	6815114030300644	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
 255	329	6815114031014598	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+3	417	6830660607427123	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+417	565	6830660608896528	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+3	273	6830662187966884	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+274	386	6830662189086297	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+1	257	6830675364585336	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+258	373	6830675365748750	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+2	275	6830675864439952	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+275	388	6830675865561060	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+2	259	6830689299080132	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+259	380	6830689300284593	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+3	253	6830689600356080	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+253	360	6830689601411302	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+2	271	6830690004727446	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+271	385	6830690005842852	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+2	260	6830691722641728	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+260	373	6830691723766475	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+2	266	6830694481456522	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+266	375	6830694482535214	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
+2	268	6830696341516058	CMakeFiles/11_6_Practical_work_exercise_04.dir/main.cpp.obj	df70b84e249b139a
+268	379	6830696342617337	11_6_Practical_work_exercise_04.exe	8f8b3db2e25bd1a5
