@@ -10,6 +10,10 @@ std::string getCellValue (std::string x, int y) {
     return w;
 }
 
+std::string checkWin (std::string q, std::string w) {
+    return "0";
+}
+
 
 int main() {
     std::cout << "Evaluation of the results of the game of tic-tac-toe" << std::endl << std::endl;
